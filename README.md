@@ -8,4 +8,4 @@ __Lb_2:__ usecases && usecase diagrams
 
 __Lb_3:__ activity, class, component, statechart diagrams[folder: Diagrams(lb_3)]
 
-__Lb_4:__ Design Patterns
+__Lb_4:__ design patterns
